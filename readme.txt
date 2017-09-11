@@ -1,2 +1,2 @@
-Git is a 2 version control system.
+Git is a 3 version control system.
 Git is free software.
